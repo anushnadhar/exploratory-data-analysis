@@ -11,10 +11,10 @@ In this project, we will conduct exploratory data analysis, perform feature engi
 
 1. **Exploratory Data Analysis:** is the initial step where you explore a dataset to understand its underlying structure and features. The goal is to:
 
-*Summarize key statistics (e.g., mean, median, mode, standard deviation) to understand data distribution.
-*Identify data types and patterns, such as categorical vs. numerical variables and trends.
-*Detect anomalies or missing data, which could affect analysis outcomes.
-*Visualize relationships between variables using plots (e.g., scatter plots, histograms, box plots).
+* Summarize key statistics (e.g., mean, median, mode, standard deviation) to understand data distribution.
+* Identify data types and patterns, such as categorical vs. numerical variables and trends.
+* Detect anomalies or missing data, which could affect analysis outcomes.
+* Visualize relationships between variables using plots (e.g., scatter plots, histograms, box plots).
 
 ## Findings and Insights
 
